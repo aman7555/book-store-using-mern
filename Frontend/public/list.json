@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "To Kill a Mockingbird",
+        "title": "A Novel of Racism and Injustice",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717816847~exp=1717820447~hmac=aaac91a35b74075414274bbb869589d42bae8b657ab08f353e1a3ba4ae889c53&w=740"
+    },
+    {
+        "id": 2,
+        "name": "1984",
+        "title": "A Dystopian Future",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717816847~exp=1717820447~hmac=aaac91a35b74075414274bbb869589d42bae8b657ab08f353e1a3ba4ae889c53&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Moby-Dick",
+        "title": "The Quest for the White Whale",
+        "price": 18.50,
+        "category": "Adventure",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717816847~exp=1717820447~hmac=aaac91a35b74075414274bbb869589d42bae8b657ab08f353e1a3ba4ae889c53&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Pride and Prejudice",
+        "title": "A Classic Romance",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717816847~exp=1717820447~hmac=aaac91a35b74075414274bbb869589d42bae8b657ab08f353e1a3ba4ae889c53&w=740"
+    },
+    {
+        "id": 5,
+        "name": "The Great Gatsby",
+        "title": "The American Dream",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717816847~exp=1717820447~hmac=aaac91a35b74075414274bbb869589d42bae8b657ab08f353e1a3ba4ae889c53&w=740"
+    },
+    {
+        "id": 6,
+        "name": "War and Peace",
+        "title": "A Story of Conflict",
+        "price": 20.00,
+        "category": "Historical Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717816847~exp=1717820447~hmac=aaac91a35b74075414274bbb869589d42bae8b657ab08f353e1a3ba4ae889c53&w=740"
+    },
+    {
+        "id": 7,
+        "name": "The Catcher in the Rye",
+        "title": "A Journey of Adolescence",
+        "price": 10.99,
+        "category": "Literary Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717816847~exp=1717820447~hmac=aaac91a35b74075414274bbb869589d42bae8b657ab08f353e1a3ba4ae889c53&w=740"
+    },
+    {
+        "id": 8,
+        "name": "The Hobbit",
+        "title": "A Fantasy Adventure",
+        "price": 16.50,
+        "category": "Fantasy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717816847~exp=1717820447~hmac=aaac91a35b74075414274bbb869589d42bae8b657ab08f353e1a3ba4ae889c53&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Brave New World",
+        "title": "A Vision of the Future",
+        "price": 11.99,
+        "category": "Science Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717816847~exp=1717820447~hmac=aaac91a35b74075414274bbb869589d42bae8b657ab08f353e1a3ba4ae889c53&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Jane Eyre",
+        "title": "A Tale of Resilience",
+        "price": 14.50,
+        "category": "Classic",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717816847~exp=1717820447~hmac=aaac91a35b74075414274bbb869589d42bae8b657ab08f353e1a3ba4ae889c53&w=740"
+    },
+    {
+        "id": 11,
+        "name": "The Alchemist",
+        "title": "A Spiritual Journey",
+        "price": 13.25,
+        "category": "Philosophical Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717816847~exp=1717820447~hmac=aaac91a35b74075414274bbb869589d42bae8b657ab08f353e1a3ba4ae889c53&w=740"
+    }
+]
